@@ -1,0 +1,10 @@
+{
+  "name": "shamiu.unitycodebox",
+  "version": "0.1.0",
+  "displayName": "Shamiu Unity CodeBox",
+  "description": "Shamiu's\nUnity Code Repo UPM",
+  "unity": "2021.3",
+  "author": {
+    "name": "PDLAKE"
+  }
+}
